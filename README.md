@@ -18,6 +18,9 @@ jupyter notebook을 활용하여 사용
 jupyter notebook
 ```
 
-DecisionTree.ipynb :의사결정나무 예제
+[DecisionTree.ipynb](https://github.com/heeiny/ml/blob/main/Decision_Tree.ipynb) :의사결정나무 예제
 
-Boosting.ipynb :앙상블 기법중에 boosting관련 예제
+[Boosting.ipynb](https://github.com/heeiny/ml/blob/main/Boosting.ipynb) :앙상블 기법중에 boosting관련 예제
+
+![image](https://user-images.githubusercontent.com/105307047/177272833-cb135d29-8d51-4c9f-ac81-dc3daf419432.png)
+
